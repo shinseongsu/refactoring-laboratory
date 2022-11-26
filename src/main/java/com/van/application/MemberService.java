@@ -2,7 +2,6 @@ package com.van.application;
 
 import com.van.domain.Member;
 import com.van.domain.MemberRepository;
-import lombok.RequiredArgsConstructor;
 
 import java.util.List;
 
