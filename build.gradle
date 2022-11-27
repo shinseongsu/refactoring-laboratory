@@ -10,6 +10,8 @@ repositories {
 }
 
 dependencies {
+    implementation 'io.netty:netty-all:4.1.85.Final'
+
     implementation 'mysql:mysql-connector-java:8.0.31'
     compileOnly 'org.projectlombok:lombok:1.18.24'
 
